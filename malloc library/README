@@ -1,0 +1,16 @@
+1.The list of problems that your implementation has including the parts you did not implement.
+NONE.
+
+2.The list of tests programs you wrote and what parts of your implementation they test.
+I wrote mtest(1-12).cc and all of them can be tested by executing MYrunTest.
+
+3.Remarks:
+If you want to test test1, 2, 3 and 5, please edit Makefile so that:
+GCC = g++ -g
+
+If you want to test test4, please edit Makefile so that:
+GCC = /opt/SUNWspro/bin/CC -g
+
+My heap size for test1 was lower than the standard so I changed the lower limit for test1 in run-test. 
+However, I never changed any other upper bounds or bounds for test5.
+
