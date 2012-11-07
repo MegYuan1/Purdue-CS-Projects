@@ -1,0 +1,219 @@
+<mapfile bitmap="purdue-map.jpg" scale-feet-per-pixel="2.0">
+<location id="0" name="OLMN" x="485" y="296" />
+<location id="1" name="DYE" x="516" y="269" />
+<location id="2" name="VOIN" x="501" y="329" />
+<location id="3" name="SPUR" x="474" y="351" />
+<location id="4" name="WGLR" x="615" y="339" />
+<location id="5" name="GCMB" x="408" y="400" />
+<location id="6" name="GSMB" x="409" y="429" />
+<location id="7" name="FORD" x="866" y="822" />
+<location id="8" name="CARY" x="970" y="794" />
+<location id="9" name="LAMB" x="1047" y="816" />
+<location id="10" name="MACK" x="1044" y="746" />
+<location id="11" name="IAF" x="1023" y="677" />
+<location id="12" name="MOLL" x="1009" y="607" />
+<location id="13" name="STDM" x="963" y="657" />
+<location id="14" name="SCPA" x="717" y="830" />
+<location id="15" name="PUSH" x="1042" y="931" />
+<location id="16" name="RHPH" x="1057" y="964" />
+<location id="17" name="CIVL" x="1099" y="940" />
+<location id="18" name="PHYS" x="1167" y="944" />
+<location id="19" name="FRNY" x="1148" y="972" />
+<location id="20" name="MSEE" x="1213" y="994" />
+<location id="21" name="EE" x="1240" y="1035" />
+<location id="22" name="PGNW" x="1290" y="977" />
+<location id="23" name="ME" x="1207" y="1050" />
+<location id="24" name="JNSN" x="1066" y="996" />
+<location id="25" name="SCHL" x="1103" y="1015" />
+<location id="26" name="ELLT" x="1098" y="1089" />
+<location id="27" name="AR" x="1035" y="1079" />
+<location id="28" name="POTR" x="1225" y="1110" />
+<location id="29" name="MGL" x="1259" y="1126" />
+<location id="30" name="KNOY" x="1288" y="1098" />
+<location id="31" name="NUCL" x="1289" y="1136" />
+<location id="32" name="ENAD" x="1184" y="1102" />
+<location id="33" name="HPN" x="1177" y="1133" />
+<location id="34" name="PSYC" x="1096" y="1146" />
+<location id="35" name="CS" x="1029" y="1158" />
+<location id="36" name="MATH" x="1059" y="1196" />
+<location id="37" name="BRNG" x="1034" y="1243" />
+<location id="38" name="STONE" x="1086" y="1303" />
+<location id="39" name="STEW" x="1200" y="1282" />
+<location id="40" name="PMU" x="1279" y="1268" />
+<location id="41" name="PGG" x="1355" y="1264" />
+<location id="42" name="WTHR" x="1193" y="1180" />
+<location id="43" name="SC" x="1131" y="1178" />
+<location id="44" name="CL50" x="1088" y="1189" />
+<location id="45" name="REC" x="1088" y="1228" />
+<location id="46" name="UNIV" x="1087" y="1257" />
+<location id="47" name="HEAV" x="1250" y="1197" />
+<location id="48" name="GRIS" x="1303" y="1189" />
+<location id="49" name="MTHW" x="1029" y="1289" />
+<location id="50" name="HIKS" x="1209" y="1308" />
+<location id="51" name="LYNN" x="1090" y="1646" />
+<location id="52" name="FREH" x="1302" y="1723" />
+<location id="53" name="WADE" x="1223" y="1774" />
+<location id="54" name="UPSB" x="1174" y="1780" />
+<location id="55" name="EHSA" x="1135" y="1763" />
+<location id="56" name="AHF" x="1139" y="1687" />
+<location id="57" name="DAUC" x="1302" y="1486" />
+<location id="58" name="KRAN" x="1298" y="1358" />
+<location id="59" name="PGM" x="1200" y="1400" />
+<location id="60" name="PAO" x="1198" y="1440" />
+<location id="61" name="HAWK" x="1271" y="1414" />
+<location id="62" name="YONG" x="1310" y="1397" />
+<location id="63" name="RAWL" x="1352" y="1358" />
+<location id="64" name="PGGW" x="1349" y="1420" />
+<location id="65" name="PFEN" x="1075" y="1365" />
+<location id="66" name="AGAD" x="1126" y="1374" />
+<location id="67" name="EEL" x="1108" y="1421" />
+<location id="68" name="FORS" x="1138" y="1419" />
+<location id="69" name="FS" x="1071" y="1502" />
+<location id="70" name="HORT" x="1125" y="1484" />
+<location id="71" name="HGRH" x="1124" y="1523" />
+<location id="72" name="ABE" x="1014" y="1494" />
+<location id="73" name="LSA" x="961" y="1445" />
+<location id="74" name="LILY" x="942" y="1377" />
+<location id="75" name="SMTH" x="999" y="1364" />
+<location id="76" name="BCHM" x="1016" y="1424" />
+<location id="77" name="HANS" x="1000" y="1456" />
+<location id="78" name="FOOD" x="908" y="1527" />
+<location id="79" name="BSG" x="886" y="1546" />
+<location id="80" name="TMB" x="790" y="1584" />
+<location id="81" name="SOIL" x="824" y="1526" />
+<location id="82" name="PRNT" x="818" y="1551" />
+<location id="83" name="SERV" x="987" y="1532" />
+<location id="84" name="SEAN" x="1021" y="1557" />
+<location id="85" name="LSR" x="909" y="1428" />
+<location id="86" name="GRS" x="848" y="1417" />
+<location id="87" name="HERL" x="794" y="1413" />
+<location id="88" name="POUL" x="851" y="1362" />
+<location id="89" name="ASTL" x="854" y="1395" />
+<location id="90" name="BRK" x="618" y="1439" />
+<location id="91" name="CDFS" x="644" y="1356" />
+<location id="92" name="FWLR" x="731" y="1282" />
+<location id="93" name="TERY" x="737" y="1465" />
+<location id="94" name="BIND" x="684" y="1421" />
+<location id="95" name="ADDL" x="1048" y="1727" />
+<location id="96" name="VPRB" x="1040" y="1617" />
+<location id="97" name="UPOF" x="1223" y="1738" />
+<location id="98" name="SCCA-E" x="1201" y="1613" />
+<location id="99" name="BCC" x="878" y="1107" />
+<location id="100" name="AQUA" x="683" y="1084" />
+<location id="101" name="DMNT" x="647" y="1104" />
+<location id="102" name="RSC" x="719" y="1020" />
+<location id="103" name="PFSB" x="1045" y="1944" />
+<location id="104" name="MMDC" x="951" y="1933" />
+<location id="105" name="MMSI" x="899" y="1936" />
+<location id="106" name="LMSB" x="1295" y="1896" />
+<location id="107" name="LMST" x="1281" y="1854" />
+<location id="108" name="MRGN" x="718" y="1359" />
+<path idfrom="0" idto="1" type="undirected">
+<path idfrom="0" idto="2" type="undirected">
+<path idfrom="0" idto="3" type="undirected">
+<path idfrom="0" idto="4" type="undirected">
+<path idfrom="0" idto="5" type="undirected">
+<path idfrom="0" idto="6" type="undirected">
+<path idfrom="0" idto="7" type="undirected">
+<path idfrom="0" idto="8" type="undirected">
+<path idfrom="0" idto="9" type="undirected">
+<path idfrom="0" idto="10" type="undirected">
+<path idfrom="0" idto="11" type="undirected">
+<path idfrom="0" idto="12" type="undirected">
+<path idfrom="0" idto="13" type="undirected">
+<path idfrom="0" idto="14" type="undirected">
+<path idfrom="0" idto="15" type="undirected">
+<path idfrom="0" idto="16" type="undirected">
+<path idfrom="0" idto="17" type="undirected">
+<path idfrom="0" idto="18" type="undirected">
+<path idfrom="0" idto="19" type="undirected">
+<path idfrom="0" idto="20" type="undirected">
+<path idfrom="0" idto="21" type="undirected">
+<path idfrom="0" idto="22" type="undirected">
+<path idfrom="0" idto="23" type="undirected">
+<path idfrom="0" idto="24" type="undirected">
+<path idfrom="0" idto="25" type="undirected">
+<path idfrom="0" idto="26" type="undirected">
+<path idfrom="0" idto="27" type="undirected">
+<path idfrom="0" idto="28" type="undirected">
+<path idfrom="0" idto="29" type="undirected">
+<path idfrom="0" idto="30" type="undirected">
+<path idfrom="0" idto="31" type="undirected">
+<path idfrom="0" idto="32" type="undirected">
+<path idfrom="0" idto="33" type="undirected">
+<path idfrom="0" idto="34" type="undirected">
+<path idfrom="0" idto="35" type="undirected">
+<path idfrom="0" idto="36" type="undirected">
+<path idfrom="0" idto="37" type="undirected">
+<path idfrom="0" idto="38" type="undirected">
+<path idfrom="0" idto="39" type="undirected">
+<path idfrom="0" idto="40" type="undirected">
+<path idfrom="0" idto="41" type="undirected">
+<path idfrom="0" idto="42" type="undirected">
+<path idfrom="0" idto="43" type="undirected">
+<path idfrom="0" idto="44" type="undirected">
+<path idfrom="0" idto="45" type="undirected">
+<path idfrom="0" idto="46" type="undirected">
+<path idfrom="0" idto="47" type="undirected">
+<path idfrom="0" idto="48" type="undirected">
+<path idfrom="0" idto="49" type="undirected">
+<path idfrom="0" idto="50" type="undirected">
+<path idfrom="0" idto="51" type="undirected">
+<path idfrom="0" idto="52" type="undirected">
+<path idfrom="0" idto="53" type="undirected">
+<path idfrom="0" idto="54" type="undirected">
+<path idfrom="0" idto="55" type="undirected">
+<path idfrom="0" idto="56" type="undirected">
+<path idfrom="0" idto="57" type="undirected">
+<path idfrom="0" idto="58" type="undirected">
+<path idfrom="0" idto="59" type="undirected">
+<path idfrom="0" idto="60" type="undirected">
+<path idfrom="0" idto="61" type="undirected">
+<path idfrom="0" idto="62" type="undirected">
+<path idfrom="0" idto="63" type="undirected">
+<path idfrom="0" idto="64" type="undirected">
+<path idfrom="0" idto="65" type="undirected">
+<path idfrom="0" idto="66" type="undirected">
+<path idfrom="0" idto="67" type="undirected">
+<path idfrom="0" idto="68" type="undirected">
+<path idfrom="0" idto="69" type="undirected">
+<path idfrom="0" idto="70" type="undirected">
+<path idfrom="0" idto="71" type="undirected">
+<path idfrom="0" idto="72" type="undirected">
+<path idfrom="0" idto="73" type="undirected">
+<path idfrom="0" idto="74" type="undirected">
+<path idfrom="0" idto="75" type="undirected">
+<path idfrom="0" idto="76" type="undirected">
+<path idfrom="0" idto="77" type="undirected">
+<path idfrom="0" idto="78" type="undirected">
+<path idfrom="0" idto="79" type="undirected">
+<path idfrom="0" idto="80" type="undirected">
+<path idfrom="0" idto="81" type="undirected">
+<path idfrom="0" idto="82" type="undirected">
+<path idfrom="0" idto="83" type="undirected">
+<path idfrom="0" idto="84" type="undirected">
+<path idfrom="0" idto="85" type="undirected">
+<path idfrom="0" idto="86" type="undirected">
+<path idfrom="0" idto="87" type="undirected">
+<path idfrom="0" idto="88" type="undirected">
+<path idfrom="0" idto="89" type="undirected">
+<path idfrom="0" idto="90" type="undirected">
+<path idfrom="0" idto="91" type="undirected">
+<path idfrom="0" idto="92" type="undirected">
+<path idfrom="0" idto="93" type="undirected">
+<path idfrom="0" idto="94" type="undirected">
+<path idfrom="0" idto="95" type="undirected">
+<path idfrom="0" idto="96" type="undirected">
+<path idfrom="0" idto="97" type="undirected">
+<path idfrom="0" idto="98" type="undirected">
+<path idfrom="0" idto="99" type="undirected">
+<path idfrom="0" idto="100" type="undirected">
+<path idfrom="0" idto="101" type="undirected">
+<path idfrom="0" idto="102" type="undirected">
+<path idfrom="0" idto="103" type="undirected">
+<path idfrom="0" idto="104" type="undirected">
+<path idfrom="0" idto="105" type="undirected">
+<path idfrom="0" idto="106" type="undirected">
+<path idfrom="0" idto="107" type="undirected">
+<path idfrom="0" idto="108" type="undirected">
+</mapfile>

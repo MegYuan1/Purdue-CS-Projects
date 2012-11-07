@@ -1,0 +1,8 @@
+<mapfile bitmap="purdue-map.jpg" scale-feet-per-pixel="2.0">
+<location id="0" name="" x="196" y="195" />
+<location id="1" name="" x="189" y="293" />
+<location id="2" name="" x="387" y="246" />
+<location id="3" name="" x="338" y="142" />
+<location id="4" name="" x="18" y="108" />
+<location id="5" name="" x="219" y="42" />
+</mapfile>

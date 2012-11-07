@@ -1,0 +1,8 @@
+<mapfile bitmap="purdue-map.jpg" scale-feet-per-pixel="3.0">
+<location id="0" name="beer" x="604" y="702" />
+<location id="1" name="" x="753" y="656" />
+<location id="2" name="" x="722" y="828" />
+<location id="3" name="" x="766" y="833" />
+<path idfrom="2" idto="2" type="undirected">
+<path idfrom="3" idto="3" type="undirected">
+</mapfile>
